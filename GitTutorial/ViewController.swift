@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         print("Git Tutorial")
         print("Hi there, this is branch develop")
+        print("Hello, this is commit to remote")
     }
 
     override func didReceiveMemoryWarning() {
