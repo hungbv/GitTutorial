@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Git Tutorial")
+        print("Hi there, this is branch develop")
     }
 
     override func didReceiveMemoryWarning() {
